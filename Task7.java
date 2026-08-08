@@ -47,6 +47,7 @@ public class Task7 {
         double quotient = divide(num1, num2);
         if (!Double.isNaN(quotient)) {
             System.out.println("Quotient: " + quotient);
+        
         }
     }
 }
