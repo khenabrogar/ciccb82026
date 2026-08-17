@@ -1,0 +1,3 @@
+[2026-08-08 | 06:33:21] | ID: STU-001 | Name: Juan Dela Cruz | ✅ PRESENT
+[2026-08-08 | 06:33:41] | ID: STU-005 | ❌ UNKNOWN STUDENT
+[2026-08-08 | 06:33:55] | ID: STU-004 | Name: Ana Garcia | ✅ PRESENT
